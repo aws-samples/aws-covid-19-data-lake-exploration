@@ -1,13 +1,9 @@
-## My Project
+## AWS COVID-19 Data Lake Exploration
 
-TODO: Fill this README out!
+This repo includes the code described in the "AWS COVID-19 Data Lake Exploration" Blog Post. 
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+# TODO: ADD LINK TO BLOG POST
 
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
-
